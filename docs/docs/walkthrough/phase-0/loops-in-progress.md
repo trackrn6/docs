@@ -96,3 +96,4 @@ List of people who are working on closed loops:
 - Carine Bruyndoncx (Arendonk, Belgium)
 - Jordan Berger (SLC, UT)
 - James Henley (Friendswood, TX)
+- Andrew Lichtenberg (New York, NY)
